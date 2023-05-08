@@ -1,0 +1,8 @@
+{
+	"exampletrain" {
+		"chicken" = "chicken1.jfif" += "chicken2.jfif"
+		"cat" = "cat1.jfif" += "cat2.jfif"
+		"dog" = "dog1.jfif" += "dog2.jfif"
+		"rabbit" = "rabbit1.jfif" += "rabbit2.jfif"
+	}
+}
